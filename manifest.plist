@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>items</key>
+    <key>items</key>
 	<array>
 		<dict>
 			<key>assets</key>
@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/LEEDBAO/plist/blob/master/caiworld.ipa</string>
+					<string>https://test03.6yc.com//customise/wap/pubilc/caiworld.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.caiw</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>1.01</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>彩世界</string>
+				<string>移动监管</string>
 			</dict>
 		</dict>
 	</array>
